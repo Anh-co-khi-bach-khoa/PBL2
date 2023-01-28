@@ -1,0 +1,182 @@
+Ma hoa don: 100
+Ma khach hang: 1
+Ten khach hang: Nguyen Tuan
+Ngay mua hang: 22/1/2019
+
+~Danh sach cac mat hang ma khach hang da mua~
+
+================================
+Ma san pham: 001
+Ten san pham: asus tuf gaming
+Gia cua mot san pham: 18000000
+So luong san pham khach hang da mua: 3
+Thoi gian bao hanh cua san pham: 24 thang
+Thoi gian het bao hanh: 22/1/2021
+================================
+Ma san pham: 003
+Ten san pham: hp victus
+Gia cua mot san pham: 14000000
+So luong san pham khach hang da mua: 2
+Thoi gian bao hanh cua san pham: 12 thang
+Thoi gian het bao hanh: 22/1/2020
+================================
+Ma san pham: 004
+Ten san pham: msi modern 14
+Gia cua mot san pham: 15000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 24 thang
+Thoi gian het bao hanh: 22/1/2021
+================================
+So dien thoai lien lac cua khach hang: 0377228184
+Tong thanh tien: 97000000 dong
+
+***********************************************
+Ma hoa don: 101
+Ma khach hang: 2
+Ten khach hang: Nguyen Minh Quang
+Ngay mua hang: 12/2/2011
+
+~Danh sach cac mat hang ma khach hang da mua~
+
+================================
+Ma san pham: 002
+Ten san pham: msi bravo 15
+Gia cua mot san pham: 12000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 12 thang
+Thoi gian het bao hanh: 12/2/2012
+================================
+Ma san pham: 005
+Ten san pham: dell inspirion
+Gia cua mot san pham: 12000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 12 thang
+Thoi gian het bao hanh: 12/2/2012
+================================
+So dien thoai lien lac cua khach hang: 0982748665
+Tong thanh tien: 24000000 dong
+
+***********************************************
+Ma hoa don: 102
+Ma khach hang: 3
+Ten khach hang: Phan Quoc Hung
+Ngay mua hang: 3/4/2020
+
+~Danh sach cac mat hang ma khach hang da mua~
+
+================================
+Ma san pham: 006
+Ten san pham: alienware
+Gia cua mot san pham: 65000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 24 thang
+Thoi gian het bao hanh: 3/4/2022
+================================
+So dien thoai lien lac cua khach hang: 0386106780
+Tong thanh tien: 65000000 dong
+
+***********************************************
+Ma hoa don: 103
+Ma khach hang: 4
+Ten khach hang: Nhuyen VAN a
+Ngay mua hang: 22/2/2016
+
+~Danh sach cac mat hang ma khach hang da mua~
+
+================================
+Ma san pham: 001
+Ten san pham: asus tuf gaming
+Gia cua mot san pham: 18000000
+So luong san pham khach hang da mua: 3
+Thoi gian bao hanh cua san pham: 24 thang
+Thoi gian het bao hanh: 22/2/2018
+================================
+Ma san pham: 003
+Ten san pham: hp victus
+Gia cua mot san pham: 14000000
+So luong san pham khach hang da mua: 2
+Thoi gian bao hanh cua san pham: 12 thang
+Thoi gian het bao hanh: 22/2/2017
+================================
+So dien thoai lien lac cua khach hang: 0377228184
+Tong thanh tien: 82000000 dong
+
+***********************************************
+Ma hoa don: 100
+Ma khach hang: 1
+Ten khach hang: Nguyen Tuan
+Ngay mua hang: 22/1/2019
+
+~Danh sach cac mat hang ma khach hang da mua~
+
+================================
+Ma san pham: 001
+Ten san pham: asus tuf gaming
+Gia cua mot san pham: 18000000
+So luong san pham khach hang da mua: 3
+Thoi gian bao hanh cua san pham: 24 thang
+Thoi gian het bao hanh: 22/1/2021
+================================
+Ma san pham: 003
+Ten san pham: hp victus
+Gia cua mot san pham: 14000000
+So luong san pham khach hang da mua: 2
+Thoi gian bao hanh cua san pham: 12 thang
+Thoi gian het bao hanh: 22/1/2020
+================================
+Ma san pham: 004
+Ten san pham: msi modern 14
+Gia cua mot san pham: 15000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 24 thang
+Thoi gian het bao hanh: 22/1/2021
+================================
+So dien thoai lien lac cua khach hang: 0377228184
+Tong thanh tien: 97000000 dong
+
+***********************************************
+Ma hoa don: 101
+Ma khach hang: 2
+Ten khach hang: Nguyen Minh Quang
+Ngay mua hang: 12/2/2011
+
+~Danh sach cac mat hang ma khach hang da mua~
+
+================================
+Ma san pham: 002
+Ten san pham: msi bravo 15
+Gia cua mot san pham: 12000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 12 thang
+Thoi gian het bao hanh: 12/2/2012
+================================
+Ma san pham: 005
+Ten san pham: dell inspirion
+Gia cua mot san pham: 12000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 12 thang
+Thoi gian het bao hanh: 12/2/2012
+================================
+So dien thoai lien lac cua khach hang: 0982748665
+Tong thanh tien: 24000000 dong
+
+***********************************************
+Ma hoa don: 102
+Ma khach hang: 3
+Ten khach hang: Phan Quoc Hung
+Ngay mua hang: 3/4/2020
+
+~Danh sach cac mat hang ma khach hang da mua~
+
+================================
+Ma san pham: 006
+Ten san pham: alienware
+Gia cua mot san pham: 65000000
+So luong san pham khach hang da mua: 1
+Thoi gian bao hanh cua san pham: 24 thang
+Thoi gian het bao hanh: 3/4/2022
+================================
+So dien thoai lien lac cua khach hang: 0386106780
+Tong thanh tien: 65000000 dong
+
+***********************************************

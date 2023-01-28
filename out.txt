@@ -1,0 +1,48 @@
+Ma san pham: 0001
+Ten san pham: asus tuf gaming
+So luong san pham con lai: 11
+Gia nhap vao: 15000000
+Gia ban: 18000000
+Thoi gian bao hanh: 24 thang
+
+***********************************************
+Ma san pham: 0002
+Ten san pham: msi bravo 15
+So luong san pham con lai: 9
+Gia nhap vao: 13000000
+Gia ban: 12000000
+Thoi gian bao hanh: 12 thang
+
+***********************************************
+Ma san pham: 0003
+Ten san pham: hp victus
+So luong san pham con lai: 14
+Gia nhap vao: 12000000
+Gia ban: 14000000
+Thoi gian bao hanh: 12 thang
+
+***********************************************
+Ma san pham: 0004
+Ten san pham: msi modern 14
+So luong san pham con lai: 18
+Gia nhap vao: 13000000
+Gia ban: 15000000
+Thoi gian bao hanh: 24 thang
+
+***********************************************
+Ma san pham: 0005
+Ten san pham: dell inspirion
+So luong san pham con lai: 11
+Gia nhap vao: 10000000
+Gia ban: 12000000
+Thoi gian bao hanh: 12 thang
+
+***********************************************
+Ma san pham: 0006
+Ten san pham: alienware
+So luong san pham con lai: 17
+Gia nhap vao: 60000000
+Gia ban: 65000000
+Thoi gian bao hanh: 24 thang
+
+***********************************************
