@@ -16,8 +16,6 @@ static int count_k = 1;
 
 linkedlist<khachhang> KhachHang;
 
-//this is normal text
-
 class khachhang:public person{
 
     private:
